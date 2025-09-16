@@ -9,21 +9,29 @@ This project demonstrates the use of a deep learning model to classify handwritt
 🗂️ Dataset
 
 Source: MNIST Database
+
 Size: 60,000 training images and 10,000 test images
+
 Image Format: 28x28 grayscale
 
 📊 Results
 
 Training Accuracy: 98.74%
+
 Test Accuracy: 97.72%
+
 Loss: 0.07 
 
 🛠 Technologies Used
 
 Python
+
 TensorFlow / Keras
+
 NumPy
+
 Matplotlib (for visualization)
+
 
 🚀 Future Work
 
